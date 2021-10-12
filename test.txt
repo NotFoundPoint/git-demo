@@ -1,18 +1,2 @@
-
-hello git
-
-hello git
-hello git
-hello git
-hello git
-hello git
-hello git
-111111111
-222222222
-hello git
-hello git
-hello git
-hello git
-
-
-
+git hello
+master hello

@@ -1,4 +1,2 @@
-git hellix) HEAD@{0}: reset: moving to b7e256d
-9bbd5d5 HEAD@{1}: reset: movingo
 master hello
 hot-fix hello
